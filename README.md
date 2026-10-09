@@ -19,4 +19,4 @@ Currently seeking a **6-month End-of-Studies Internship (PFE) in France** 🇫�
 * 💼 **LinkedIn:** www.linkedin.com/in/roua-jaouadi-417b3127b
 * 📧 **Email:** roua.jaouadi@ensea.fr
 
-Check out some of my hardware projects down below 👇
+**Check out some of my hardware projects down below** 👇
