@@ -20,8 +20,3 @@ Currently seeking a **6-month End-of-Studies Internship (PFE) in France** 🇫�
 * 📧 **Email:** roua.jaouadi@ensea.fr
 
 Check out some of my hardware projects down below 👇
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
-
