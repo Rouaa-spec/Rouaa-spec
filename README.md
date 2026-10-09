@@ -1,7 +1,7 @@
 # Hi, I'm ROUA 👋
 
 **Future Electronics Engineer**
-I enjoy bringing hardware projects to life—from drawing the first schematics to routing the PCB layout. I use this GitHub profile as my digital lab notebook to share my ongoing designs and lessons learned along the way, mainly using both **KiCad** and **Altium Designer**.
+I enjoy bringing hardware projects to life, from drawing the first schematics to routing the PCB layout. I use this GitHub profile as my digital lab notebook to share my ongoing designs and lessons learned along the way, mainly using both **KiCad** and **Altium Designer**.
 Currently seeking a **6-month End-of-Studies Internship (PFE) in France** 🇫🇷 as an Electronics Engineer starting early 2027.
 
 ---
